@@ -1,2 +1,2 @@
-# sgnk
-Simple Graphical Networking Kernel
+# sgik
+Simple Graphical Interfacing Kernel
